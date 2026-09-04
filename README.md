@@ -1,29 +1,21 @@
-# SQL-Projects
-A collection of SQL projects focused on data analysis, business insights, and finance.
-## Projects
+# SQL Projects
 
-### 1. Banking Customer Analysis
-...
+A collection of SQL projects focused on data analysis, business insights, and financial analysis.
 
-### 2. Financial Performance Analysis
+## Project
 
-...
-### 3. Sales Analysis
+### Financial Analysis Using SQL
 
-...
+Analysis of SEC financial statement data using PostgreSQL to explore company filings, industries, geographic distribution, filing types, and financial performance.
+
+**Tools:** PostgreSQL, SQL
 
 ## Skills Demonstrated
 
 - SQL
-
-- Data Cleaning
-
+- PostgreSQL
 - Data Analysis
-
-- Joins
-
 - Aggregations
-
-- CTEs
-
-- Window Functions
+- GROUP BY
+- Data Exploration
+- Data Quality Checks
