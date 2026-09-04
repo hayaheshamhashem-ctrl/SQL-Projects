@@ -8,14 +8,18 @@ A collection of SQL projects focused on data analysis, business insights, and fi
 
 Analysis of SEC financial statement data using PostgreSQL to explore company filings, industries, geographic distribution, filing types, and financial performance.
 
-**Tools:** PostgreSQL, SQL
+**Dataset:** SEC Financial Statement Data Sets  
+**Database:** PostgreSQL  
+**Tools:** SQL, pgAdmin 4
 
 ## Skills Demonstrated
 
 - SQL
 - PostgreSQL
+- Data Exploration
 - Data Analysis
 - Aggregations
 - GROUP BY
-- Data Exploration
+- Filtering with WHERE
+- Sorting with ORDER BY
 - Data Quality Checks
